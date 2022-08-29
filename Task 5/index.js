@@ -1,7 +1,7 @@
 document.getElementById("RandomBtn").addEventListener("click", CopyDiv);
 document.getElementById("Back").addEventListener("click", OpenWindow);
 function OpenWindow() {
-    window.open("../home.html")
+    window.open("../index.html")
 }
 function CopyDiv() {
     var existElement = document.getElementsByClassName("RandonMain")[0];
