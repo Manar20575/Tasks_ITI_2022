@@ -22,7 +22,7 @@
 //     } 
 document.getElementById("Back").addEventListener("click", OpenWindow);
 function OpenWindow() {
-    window.open("../home.html")
+    window.open("../index.html")
 }
     var xpos = ""
     var ypos = ""
