@@ -16,7 +16,7 @@ else{
             for (let index = 0; index < 2; index++) {
             tst(num);
             }
-            document.write("<h1> Failed the right number is : "+rnumber+" *-* <h1>")
+            document.write("<h1> Failed the right number was : "+rnumber+" *-* <h1>")
         }
 }
 function tst(num) {
