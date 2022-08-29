@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+#Back{
+    float: right;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    border: 0;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 5px;
+}

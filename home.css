@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: normal;
+}
+.btns a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+}
+.btns{
+    top: 50%;
+    left: 50%;
+    transform: translate(0%,100%);
+}
+.btns button:nth-child(1){
+    background-color: rgba(235, 95, 240, 0.642);
+}
+.btns button:nth-child(1):hover{
+    background-color: rgba(234, 143, 237, 0.642);
+}
+.btns button:nth-child(2){
+    background-color: rgba(4, 138, 113, 0.642);
+}
+.btns button:nth-child(2):hover{
+    background-color: rgba(34, 163, 139, 0.642);
+}
+.btns button:nth-child(3){
+    background-color: rgba(4, 138, 138, 0.642);
+}
+.btns button:nth-child(3):hover{
+    background-color: rgba(87, 153, 184, 0.642)
+}
+.btns button:nth-child(4){
+    background-color: rgba(4, 107, 138, 0.642);
+}
+.btns button:nth-child(4):hover{
+    background-color: rgba(57, 109, 134, 0.642);
+}
+.btns button:nth-child(5){
+    background-color: rgba(98, 5, 151, 0.642);
+}
+.btns button:nth-child(5):hover{
+    background-color: rgba(126, 0, 210, 0.642);
+}
+.btns button:nth-child(6){
+    background-color: rgba(42, 4, 138, 0.642);
+}
+.btns button:nth-child(6):hover{
+    background-color: rgba(68, 43, 132, 0.642);
+}
+.btns button:nth-child(7){
+    background-color: rgba(4, 62, 138, 0.642);
+}
+.btns button:nth-child(7):hover{
+    background-color: rgba(43, 83, 135, 0.642);
+}

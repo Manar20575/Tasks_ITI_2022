@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+#Back{
+    float: right;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    border: 0;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 5px;
+}
+.hold{
+    margin-bottom: 10px;
+    margin-right: 80px;
+}
+.flx{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 8px;
+}
+form{
+    padding: 0px 22px;
+    height: 60%;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    border: 1px solid black;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+.btns{
+    text-align: start;
+    margin-left: 118px;
+}
