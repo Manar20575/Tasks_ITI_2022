@@ -1,6 +1,6 @@
 document.getElementById("Back").addEventListener("click", OpenWindow);
 function OpenWindow() {
-    window.open("../index.html")
+window.open("../index.html")
 }
 var num = prompt("Enter Number From 1 to 10 *-* ");
 var rnumber  = '4'
