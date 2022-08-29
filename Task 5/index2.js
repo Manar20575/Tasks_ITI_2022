@@ -6,7 +6,7 @@ document.getElementById("img-new").addEventListener("click",openWindow);
 document.getElementById("img-close").addEventListener("click",close);
 document.getElementById("Back").addEventListener("click", OpenWindow);
 function OpenWindow() {
-    window.open("../home.html")
+    window.open("../index.html")
 }
 // var girl = document.getElementById("girl");
 // var relax = document.getElementById("relax");
